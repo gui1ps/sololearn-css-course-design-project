@@ -7,3 +7,12 @@
 body{
     font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif
 }
+.prof{
+    font-size: 1.5rem;
+}
+.contactinfo{
+    font-size: 1em;
+}
+.subheading{
+    font-size: 20px;;
+} 
